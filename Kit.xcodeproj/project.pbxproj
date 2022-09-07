@@ -13,6 +13,7 @@
 		EA0650C828C3B2B600AB3011 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0650C628C3B2B600AB3011 /* Main.storyboard */; };
 		EA0650CA28C3B2B700AB3011 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA0650C928C3B2B700AB3011 /* Assets.xcassets */; };
 		EA0650CD28C3B2B700AB3011 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0650CB28C3B2B700AB3011 /* LaunchScreen.storyboard */; };
+		EA0650D528C8BD5D00AB3011 /* oh_rana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EA0650D428C8BD5D00AB3011 /* oh_rana.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA0650C928C3B2B700AB3011 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA0650CC28C3B2B700AB3011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA0650CE28C3B2B700AB3011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA0650D428C8BD5D00AB3011 /* oh_rana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = oh_rana.mp3; path = ../../../../Downloads/oh_rana.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EA0650C028C3B2B600AB3011 /* AppDelegate.swift */,
 				EA0650C228C3B2B600AB3011 /* SceneDelegate.swift */,
 				EA0650C428C3B2B600AB3011 /* ViewController.swift */,
+				EA0650D428C8BD5D00AB3011 /* oh_rana.mp3 */,
 				EA0650C628C3B2B600AB3011 /* Main.storyboard */,
 				EA0650C928C3B2B700AB3011 /* Assets.xcassets */,
 				EA0650CB28C3B2B700AB3011 /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA0650CD28C3B2B700AB3011 /* LaunchScreen.storyboard in Resources */,
+				EA0650D528C8BD5D00AB3011 /* oh_rana.mp3 in Resources */,
 				EA0650CA28C3B2B700AB3011 /* Assets.xcassets in Resources */,
 				EA0650C828C3B2B600AB3011 /* Main.storyboard in Resources */,
 			);

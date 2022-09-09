@@ -13,6 +13,9 @@
 		EA0650C828C3B2B600AB3011 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0650C628C3B2B600AB3011 /* Main.storyboard */; };
 		EA0650CA28C3B2B700AB3011 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA0650C928C3B2B700AB3011 /* Assets.xcassets */; };
 		EA0650CD28C3B2B700AB3011 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0650CB28C3B2B700AB3011 /* LaunchScreen.storyboard */; };
+		EA0650D928CB2A0E00AB3011 /* boot3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EA0650D628CB2A0E00AB3011 /* boot3.jpeg */; };
+		EA0650DA28CB2A0E00AB3011 /* boot2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EA0650D728CB2A0E00AB3011 /* boot2.jpeg */; };
+		EA0650DD28CB2AD100AB3011 /* boot1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EA0650DC28CB2AD100AB3011 /* boot1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		EA0650C928C3B2B700AB3011 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA0650CC28C3B2B700AB3011 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA0650CE28C3B2B700AB3011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA0650D628CB2A0E00AB3011 /* boot3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = boot3.jpeg; sourceTree = SOURCE_ROOT; };
+		EA0650D728CB2A0E00AB3011 /* boot2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = boot2.jpeg; sourceTree = SOURCE_ROOT; };
+		EA0650DC28CB2AD100AB3011 /* boot1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = boot1.jpeg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +67,9 @@
 				EA0650C428C3B2B600AB3011 /* ViewController.swift */,
 				EA0650C628C3B2B600AB3011 /* Main.storyboard */,
 				EA0650C928C3B2B700AB3011 /* Assets.xcassets */,
+				EA0650D728CB2A0E00AB3011 /* boot2.jpeg */,
+				EA0650DC28CB2AD100AB3011 /* boot1.jpeg */,
+				EA0650D628CB2A0E00AB3011 /* boot3.jpeg */,
 				EA0650CB28C3B2B700AB3011 /* LaunchScreen.storyboard */,
 				EA0650CE28C3B2B700AB3011 /* Info.plist */,
 			);
@@ -125,7 +134,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA0650DA28CB2A0E00AB3011 /* boot2.jpeg in Resources */,
 				EA0650CD28C3B2B700AB3011 /* LaunchScreen.storyboard in Resources */,
+				EA0650D928CB2A0E00AB3011 /* boot3.jpeg in Resources */,
+				EA0650DD28CB2AD100AB3011 /* boot1.jpeg in Resources */,
 				EA0650CA28C3B2B700AB3011 /* Assets.xcassets in Resources */,
 				EA0650C828C3B2B600AB3011 /* Main.storyboard in Resources */,
 			);
